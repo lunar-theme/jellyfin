@@ -5,9 +5,8 @@
 
 <p align="center">🎥 A space-inspired theme for  Jellyfin</p>
 
-<<<<<<< HEAD
 Soon™️
-=======
+
 ## 🖼️  Gallery
 
 ## 💻 Installation
