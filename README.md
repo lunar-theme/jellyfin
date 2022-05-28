@@ -3,7 +3,7 @@
     <h2 align="center">Lunar for Jellyfin</h2>
 </p>
 
-<p align="center">📹 A space-inspired theme for  Jellyfin</p>
+<p align="center">🎥 A space-inspired theme for  Jellyfin</p>
 
 ## 🖼️  Gallery
 
